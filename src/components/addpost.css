@@ -1,0 +1,29 @@
+.addpost{
+   max-width: 600px;
+   padding: 50px 50px;
+   margin:50px auto;
+   display: flex;
+   flex-direction: column;
+   border: 2px solid rgb(119, 117, 117);
+   /* justify-content: space-evenly; */
+   
+}
+.titleinput,.bodyinput,.filefield{
+    font-size: 2em;
+    margin: 20px;
+}
+.filefield{
+    margin-bottom: 20px;
+    
+}
+.submitbutton button{
+    padding: 10px 20px;
+    margin-left: 12px;
+    margin-top: 25px;
+
+}
+.btn{
+    position: relative;
+    right: 14px;
+    bottom: 15px;
+}

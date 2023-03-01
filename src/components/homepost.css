@@ -1,0 +1,32 @@
+
+.body{
+    font-size: 1.5rem;
+   
+}
+.cardbox{
+    max-width: 50rem;
+    max-height: 30rem;
+    /* margin: auto; */
+    margin: 50px auto;
+    
+}
+.postheading{
+    font-size: 2rem;
+    margin: 10px 10p
+}
+.commenticone{
+    font-size: 2em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 20px;
+
+}
+.likeicone{
+    font-size: 2.5em;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 20px;
+}
+.cardimage{
+    height: 30rem;
+}

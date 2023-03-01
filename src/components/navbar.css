@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(199, 197, 197);
+    display: flex;
+    margin: 0px 20px;
+    
+    /* justify-content: space-between; */
+}
+.header img,h1{
+    display: inline;
+    
+}
+.header h1{
+    font-size: 2.5em;
+    margin-left: 30px;
+}
+
+.screens li{
+    display: flex;
+    list-style: none;
+    font-size: 2em;
+    margin-right: 30px;
+}
+.screens li ul{
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
